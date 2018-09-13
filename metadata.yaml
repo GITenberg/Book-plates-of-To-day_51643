@@ -1,6 +1,9 @@
 _repo: Book-plates-of-To-day_51643
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Bookplates of Today
+covers:
+- cover_type: archival
+  image_path: 51643-h/images/cover.jpg
 creator:
   editor:
     agent_name: Stone, Wilbur Macey
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46506'
     url: http://www.gutenberg.org/2009/agents/46506
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51643#Book-plates-of-To-day
 gutenberg_issued: '2016-04-03'
 gutenberg_type: Text
 identifiers:
