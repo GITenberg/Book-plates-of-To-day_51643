@@ -1,0 +1,26 @@
+_repo: Book-plates-of-To-day_51643
+_version: 0.0.1
+alternative_title: Bookplates of Today
+creator:
+  editor:
+    agent_name: Stone, Wilbur Macey
+    birthdate: 1862
+    deathdate: 1941
+    gutenberg_agent_id: '46506'
+    url: http://www.gutenberg.org/2009/agents/46506
+description: ''
+gutenberg_issued: '2016-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51643'
+  lccn: '03000730'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Bookplates'
+- GITenberg
+title: Book-plates of To-day
+url: http://www.gutenberg.org/ebooks/51643
